@@ -43,4 +43,6 @@ const LoginForm = () => {
   );
 };
 
+
+LoginForm.layout="Authentication"
 export default LoginForm;
