@@ -1,0 +1,20 @@
+
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.scrollbar::-webkit-scrollbar {
+  width: 0;
+  background: transparent; 
+}
+
+.scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.bg-sidebar-color {
+  background-color: #1D2939;
+}
+
